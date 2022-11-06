@@ -30,6 +30,6 @@ This project contains the following repositories:
   - [Kaiyu Hou](https://kyhou.com/): kyhou [at] u.northwestern.edu
   - [Sen Lin](https://senlin.dev/): sen.lin [at] u.northwestern.edu
   
- ## Licence
+ ## License
  
  This project (including all repositories) is licensed under the MIT License
