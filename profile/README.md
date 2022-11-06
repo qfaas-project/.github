@@ -22,7 +22,7 @@ This project contains the following repositories:
     - We got a lot of help from Marten Seemann and the community when using `quic-go`
   - Alex Ellis and all the OpenFaaS developers
     - This QFaaS project is all because of the openness of the OpenFaaS project
-  - Pubali Datta and the authors of [`WILL.IAM`](https://pdatta2.web.illinois.edu/publication/william/william.pdf) project
+  - Pubali Datta and the authors of [`VALVE`](https://pdatta2.web.illinois.edu/files/DattaWWW20.pdf) and [`WILL.IAM`](https://pdatta2.web.illinois.edu/publication/william/william.pdf) projects
     - They graciously provided us with the OpenFaaS `Hello, Retail!` portation used in their [paper](https://pdatta2.web.illinois.edu/publication/william/william.pdf)
  
  ## Contact
