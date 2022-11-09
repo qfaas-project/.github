@@ -6,11 +6,11 @@ QFaaS: Accelerating and Securing Serverless Cloud Networks with QUIC
 
 This project contains the following repositories:
 
- - [**overview**](https://github.com/qfaas-project/overview): overview and instruction of the QFaaS Project (*coming soon*)
+ - [**overview**](https://github.com/qfaas-project/overview): overview and instruction of the QFaaS Project (*comming soon*)
  - [**of-watchdog**](https://github.com/qfaas-project/of-watchdog): QFaaS of-watchdog component
  - [**faas-netes**](https://github.com/qfaas-project/faas-netes): QFaaS faas-netes component
  - [**gateway**](https://github.com/qfaas-project/gateway): QFaaS gateway component
- - [**function-template**](#): Function template and synthetic functions we used in prototype evaluation (under construction...)
+ - [**function-template**](https://github.com/qfaas-project/function-template): Function template and synthetic function examples
  - [**hello-retail**](https://github.com/qfaas-project/hello-retail): The `Hello, Retail!` serverless application ported for QFaaS and OpenFaaS
  - [**sample-apps**](https://github.com/qfaas-project/sample-apps): Extra sample serverless applications used in QFaaS evaluation
  - [**.github**](https://github.com/qfaas-project/.github): contains this Readme.md
