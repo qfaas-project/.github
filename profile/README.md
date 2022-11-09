@@ -6,7 +6,7 @@ QFaaS: Accelerating and Securing Serverless Cloud Networks with QUIC
 
 This project contains the following repositories:
 
- - [**overview**](https://github.com/qfaas-project/overview): overview and instruction of the QFaaS Project (*please start here*)
+ - [**overview**](https://github.com/qfaas-project/overview): overview and instruction of the QFaaS Project (*coming soon*)
  - [**of-watchdog**](https://github.com/qfaas-project/of-watchdog): QFaaS of-watchdog component
  - [**faas-netes**](https://github.com/qfaas-project/faas-netes): QFaaS faas-netes component
  - [**gateway**](https://github.com/qfaas-project/gateway): QFaaS gateway component
